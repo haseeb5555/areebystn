@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/areebystn/static/css/main.78a923e3.css",
+    "main.js": "/areebystn/static/js/main.514788de.js",
+    "static/media/bg.png": "/areebystn/static/media/bg.00b48080b31cdc226e48.png",
+    "static/media/meal.mp4": "/areebystn/static/media/meal.539dba5feafeaa60b2e8.mp4",
+    "static/media/findus.png": "/areebystn/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/areebystn/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/areebystn/static/media/chef.0232d2dfe1db94142499.png",
+    "static/media/menu.png": "/areebystn/static/media/menu.b846ebf98887a64adad5.png",
+    "static/media/gallery04.png": "/areebystn/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/areebystn/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/welcome.png": "/areebystn/static/media/welcome.9ee0e201d7187e7cca6b.png",
+    "static/media/gallery02.png": "/areebystn/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/areebystn/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/overlaybg.png": "/areebystn/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/knife.png": "/areebystn/static/media/knife.448e4c22e7b22f985cb0.png",
+    "static/media/gericht.png": "/areebystn/static/media/gericht.b9e64f6a25d8d718941f.png",
+    "static/media/G.png": "/areebystn/static/media/G.38d5e84d9df50ddca0aa.png",
+    "static/media/logo.png": "/areebystn/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/areebystn/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/areebystn/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/areebystn/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/areebystn/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/areebystn/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/areebystn/index.html",
+    "static/media/spoon.svg": "/areebystn/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.78a923e3.css.map": "/areebystn/static/css/main.78a923e3.css.map",
+    "main.514788de.js.map": "/areebystn/static/js/main.514788de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78a923e3.css",
+    "static/js/main.514788de.js"
+  ]
+}
